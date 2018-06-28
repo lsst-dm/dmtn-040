@@ -2,11 +2,7 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the master branch.
-
 .. note::
-
-   **This technote is not yet published.**
 
    Currently, this is a living document. It serves as a central repository of
    information addressing operational concerns related to usage of Pegasus WMS
