@@ -13,7 +13,7 @@ serial_number: '040'
 doc_id: 'DMTN-040'
 
 # Title of the document, without the series/serial designation
-doc_title: 'DIRAC: workload and data management system'
+doc_title: 'A closer look at Pegasus WMS'
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
@@ -37,7 +37,7 @@ authors:
 copyright: '2016, AURA/LSST'
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: 'Review of DIRAC'
+description: 'A closer look at Pegasus WMS'
 
 # Abstract, if available
 # abstract: >

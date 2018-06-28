@@ -7,15 +7,21 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-###################################################
-DMTN-040 DIRAC: workload and data management system
-###################################################
+############################
+A closer look at Pegasus WMS
+############################
 
-Review of DIRAC
+DMTN-040
+========
 
-View this technote at https://dmtn-040.lsst.io or see a preview of the current version in `this repo`_.
+A technote addressing operational concerns related to usage of Pegasus WMS in the LSST Batch Production Service.
 
+**Links:**
 
+- Publication URL: https://dmtn-040.lsst.io
+- Alternative editions: https://dmtn-040.lsst.io/v
+- GitHub repository: https://github.com/lsst-dm/dmtn-040
+- Build system: https://travis-ci.org/lsst-dm/dmtn-040
 
 Build this technical note
 =========================
